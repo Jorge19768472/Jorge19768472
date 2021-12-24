@@ -1,7 +1,7 @@
-- 👋 Hhola Soy @Jorge19768472
+- 👋 Hola Soy @Jorge19768472
 - 👀 estoy interesado en aprender en visual basic y offices
 Word, Excel. Access como sql, mysql, sql server y variantes 
-Automatización visual basic y office
+Automatización visual basic y office en general
 
 
 <!---
